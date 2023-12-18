@@ -28,6 +28,7 @@ Além de outros recursos.
 - Estilização de textos e boas práticas de design.
 - Utilização de unidades de medidas voltadas para responsividade.
 - Utilização do figma para criação de Layout.
+- Conceito de mobile first.
 
 ## 📌 Créditos
 - **Assets:** ✨Layout disponibilizado no figma, no seguinte endereço:
